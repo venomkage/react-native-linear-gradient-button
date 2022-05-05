@@ -1,0 +1,22 @@
+{
+  "name": "react-native-linear-gradient-button",
+  "version": "1.2.3",
+  "description": "A react-native package for linear gradient button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native-gradient-button",
+    "react-native-linear-gradient-button",
+    "react-native-linear-gradient",
+    "react",
+    "react-native",
+    "gradient-button"
+  ],
+  "author": "Venom Kage/ Vipin Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-linear-gradient": "^2.5.6"
+  }
+}
